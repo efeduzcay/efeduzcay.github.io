@@ -30,7 +30,7 @@ portfolio/
 
 ## Live
 
-[efeduzcay.github.io/portfolio](https://efeduzcay.github.io/)
+[efeduzcay.github.io/](https://efeduzcay.github.io/)
 
 ## License
 
